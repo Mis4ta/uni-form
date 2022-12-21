@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "u-avatar": "/node-modules/uview-ui/components/u-avatar/u-avatar",
+    "u--form": "/node-modules/uview-ui/components/u--form/u--form",
+    "u-form-item": "/node-modules/uview-ui/components/u-form-item/u-form-item",
+    "u--input": "/node-modules/uview-ui/components/u--input/u--input",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-datetime-picker": "/node-modules/uview-ui/components/u-datetime-picker/u-datetime-picker",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "address-picker": "/components/lingdang-AddressPicker/AddressPicker"
+  }
+}
